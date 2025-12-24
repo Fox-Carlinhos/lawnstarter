@@ -1,0 +1,3 @@
+export const CACHE_STALE_TIME = 60 * 60 * 1000;
+
+export const CACHE_GARBAGE_COLLECTION_TIME = CACHE_STALE_TIME * 2;
